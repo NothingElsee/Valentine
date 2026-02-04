@@ -22,7 +22,7 @@ envelope.addEventListener("click", () => {
 
 // Logic to move the NO btn
 
-noBtn.addEventListener("mouseover", () => {
+noBtn.addEventListener("click", () => {
     const min = 100;
     const max = 100;
 
